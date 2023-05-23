@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sites.google.com/site/abhikghoshmoulick/home/" target="blank">
 Abhik</a></h1>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Working+as+post+doctoral+research+associate+in+CUNY" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+page" />
 </div>
 <h3 align="center">Senior Research Fellow in <a href="https://www.bose.res.in/departments/PCS/Students.jsp" target="blank">
 Department of Physics of Complex Systems</a></h3> <h3 align="center"><a href="https://www.bose.res.in/" target="blank">
