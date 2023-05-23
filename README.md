@@ -3,9 +3,9 @@ Abhik</a></h1>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+page" />
 </div>
-<h3 align="center">Senior Research Fellow in <a href="https://www.bose.res.in/departments/PCS/Students.jsp" target="blank">
-Department of Physics of Complex Systems</a></h3> <h3 align="center"><a href="https://www.bose.res.in/" target="blank">
-S N Bose National Centre for Basic Sciences,  India &#127470;&#127475</h3>
+<h3 align="center">Postdoctoral Research Associate <a href="https://sites.google.com/site/loverdelaboratory/people" target="blank">
+Department of Chemistry, College of Staten Island</a></h3> <h3 align="center"><a href="https://www.csi.cuny.edu/academics-and-research/departments-programs/chemistry" target="blank">
+City University of New York, USA &#127470;&#127475</h3>
 
 <p align="left"> <a href="https://twitter.com/abhikgmoulick" target="blank"><img src="https://img.shields.io/twitter/follow/abhikgmoulick?logo=twitter&style=for-the-badge" alt="abhikgmoulick" /></a> </p>
 
