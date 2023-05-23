@@ -21,7 +21,7 @@ City University of New York, USA &#127470;&#127475</h3>
 " target="blank">**Soft matter physics**</a> & <a href="https://en.wikipedia.org/wiki/Computational_biology
 " target="blank">**Computational biology**</a>.
 
-- :e-mail: How to reach me **abhik.ghosh@bose.res.in**.
+- :e-mail: How to reach me **abhik.moulick@csi.cuny.edu**.
 
 - :globe_with_meridians:	My home page <a href="https://sites.google.com/site/abhikghoshmoulick/home/
 " target="blank">**Click Here**</a>
@@ -45,8 +45,8 @@ J. Chakrabarti, Physical Chemistry Chemical Physics, 2022, 24, 21348. ](https://
 3. [A.G.Moulick & J. Chakrabarti, Correlation between protein bond vector and dihedral fluctuations, AIP Conference Proceedings 2265, 030036 (2020).](https://aip.scitation.org/doi/10.1063/5.0016661)
 
 ### Manuscript under preparations:
-1. [Binding of α-lactalbumin with fatty acid at molten globule state, Abhik Ghosh Moulick & J.
-Chakrabarti.]()
+1. [Fluctuation dominated ligand binding in molten globule protein, Abhik Ghosh Moulick & J.
+Chakrabarti, BioRxivID:10.1101/2023.04.28.538683]()
 2. [Coarse-grained model of protein with structural information, Abhik Ghosh Moulick & J. Chakrabarti.]()
 
 
