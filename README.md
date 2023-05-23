@@ -13,7 +13,7 @@ City University of New York, USA &#127470;&#127475</h3>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as Ph.D. research scholar in <a href="https://www.bose.res.in/departments/PCS/Students.jsp" target="blank">**Department of Physics of Complex Systems, S N Bose National Centre for Basic Sciences**.</a>
+- 🔭 Completed Ph.D. from <a href="https://www.bose.res.in/departments/PCS/Students.jsp" target="blank">**Department of Physics of Complex Systems, S N Bose National Centre for Basic Sciences**.</a>
 
 - :city_sunrise: I did my M.Sc in Physics from <a href="http://physics.rkmvu.ac.in/" target="blank">**Department of Physics, Ramakrishna Mission Vivekanada Educational Research Institute (RKMVERI)**.</a>
 
