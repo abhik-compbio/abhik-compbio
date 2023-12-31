@@ -39,7 +39,7 @@ City University of New York, USA &#127470;&#127475</h3>
 - Coarse grained modelling of protein
 
 ### Manuscript accepted:
-1. 1. [Fluctuation dominated ligand binding in molten globule protein, Abhik Ghosh Moulick & J.
+1. [Fluctuation dominated ligand binding in molten globule protein, Abhik Ghosh Moulick & J.
 Chakrabarti, Journal of Chemical Information and Modeling, 2023, 63, 17, 5583–5591]()
 2. [Conformational fluctuations in molten globule state of α-lactalbumin, Abhik Ghosh Moulick &
 J. Chakrabarti, Physical Chemistry Chemical Physics, 2022, 24, 21348. ](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp02168d/unauth)
