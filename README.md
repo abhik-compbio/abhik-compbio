@@ -39,15 +39,18 @@ City University of New York, USA &#127470;&#127475</h3>
 - Coarse grained modelling of protein
 
 ### Manuscript accepted:
-1. [Conformational fluctuations in molten globule state of α-lactalbumin, Abhik Ghosh Moulick &
+1. 1. [Fluctuation dominated ligand binding in molten globule protein, Abhik Ghosh Moulick & J.
+Chakrabarti, Journal of Chemical Information and Modeling, 2023, 63, 17, 5583–5591]()
+2. [Conformational fluctuations in molten globule state of α-lactalbumin, Abhik Ghosh Moulick &
 J. Chakrabarti, Physical Chemistry Chemical Physics, 2022, 24, 21348. ](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp02168d/unauth)
-2. [Correlated dipolar and dihedral fluctuations in a protein, Abhik Ghosh Moulick & J. Chakrabarti, Chemical Physics Letters 797 (2022) 139574.](https://www.sciencedirect.com/science/article/abs/pii/S000926142200241X?via%3Dihub)
-3. [A.G.Moulick & J. Chakrabarti, Correlation between protein bond vector and dihedral fluctuations, AIP Conference Proceedings 2265, 030036 (2020).](https://aip.scitation.org/doi/10.1063/5.0016661)
+3. [Correlated dipolar and dihedral fluctuations in a protein, Abhik Ghosh Moulick & J. Chakrabarti, Chemical Physics Letters 797 (2022) 139574.](https://www.sciencedirect.com/science/article/abs/pii/S000926142200241X?via%3Dihub)
+4. [A.G.Moulick & J. Chakrabarti, Correlation between protein bond vector and dihedral fluctuations, AIP Conference Proceedings 2265, 030036 (2020).](https://aip.scitation.org/doi/10.1063/5.0016661)
 
-### Manuscript under preparations:
-1. [Fluctuation dominated ligand binding in molten globule protein, Abhik Ghosh Moulick & J.
-Chakrabarti, BioRxivID:10.1101/2023.04.28.538683]()
-2. [Coarse-grained model of protein with structural information, Abhik Ghosh Moulick & J. Chakrabarti.]()
+### Manuscript under review:
+1. [Prabir Khatua, Phu K Tang, A.G. Moulick, Rutika Patel, Anjela Manandhar, Sharon Loverde, Sequence Dependence in Nucleosome Dynamics]()
+   
+### Manuscript under preparation:
+1. [Coarse-grained model of protein with structural information, Abhik Ghosh Moulick & J. Chakrabarti.]()
 
 
 ### Computational Skill & Softwares:
